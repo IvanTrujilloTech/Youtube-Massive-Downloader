@@ -1,5 +1,7 @@
 # YouTube Massive Downloader
 
+[English](README_EN.md) | [Español](README.md)
+
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-red.svg)
 ![Status](https://img.shields.io/badge/status-Stable-green.svg)
